@@ -1,4 +1,4 @@
-# Table of contents
+# Catalog
 
 * [Introduction](README.md)
 * [DCS FAQ](DCS_FAQ/README.md)
