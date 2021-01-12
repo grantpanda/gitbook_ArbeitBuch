@@ -12,4 +12,4 @@ Here we introduce how to Login and start the DCS system.
 4. Input Password
 5. Click "LOGIN" button
 
-![avatar](https://github.com/grantpanda/gitbook_ArbeitBuch/raw/master/.gitbook/assets/screensnap_login_00.png)
+![screenshot_00](https://github.com/grantpanda/gitbook_ArbeitBuch/raw/master/.gitbook/assets/screensnap_login_00.png)
