@@ -1,1 +1,0 @@
-Here we list collected DCS FAQ.
