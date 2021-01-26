@@ -5,5 +5,7 @@
     * [Login](DCS_Brief_Instruction/Login.md)
     * [Purchase Order](DCS_Brief_Instruction/PurchaseOrder.md)
     * [PO Enquiry](DCS_Brief_Instruction/PO_Enquiry.md)
+    * [PO Enquiry by VIN](DCS_Brief_Instruction/PO_Enquiry_by_VIN.md)
+    * [Stock Enquiry](DCS_Brief_Instruction/Stock_Enquiry.md)
 * [DCS FAQ](DCS_FAQ/README.md)
     * [FAQ](DCS_FAQ/FAQ.md)
