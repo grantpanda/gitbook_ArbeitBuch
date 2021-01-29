@@ -12,7 +12,9 @@ This page is for users confirm the goods receiving from SAIC which has delivered
 8. Click "template" button, and system will pop-up download window
 9. Edit the dowmload tempate file in the local computer
 10. Click "upload" button and finsh the upload 
+
 ![screensnap_goodsreceiveconfirmation_00](https://github.com/grantpanda/gitbook_ArbeitBuch/raw/master/.gitbook/assets/screensnap_goodsreceiveconfirmation_00.jpg)
+
 ![screensnap_goodsreceiveconfirmation_00](https://github.com/grantpanda/gitbook_ArbeitBuch/raw/master/.gitbook/assets/screensnap_goodsreceiveconfirmation_00.jpg)
 
 ## Glossary

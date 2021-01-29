@@ -10,10 +10,10 @@ This page is for users enquiring stock situation from SAIC.
 
 ![screensnap_stockenquiry_00](https://github.com/grantpanda/gitbook_ArbeitBuch/raw/master/.gitbook/assets/screensnap_stockenquiry_00.jpg)
 
-PS: In this report, the first column is vehicle color, and  fourth columes are stock situation.
-If the quantity is enough, the light is green,
-if the quantity is near zero, the light is red,
-if the quantity is low, the light is yellow.
+PS: In this report, the first column is vehicle color.
+If the quantity is sufficient, the light is green
+If the quantity is not so much, the light is yellow
+If the quantity is almost empty, the light is red
 
 column name | Definition
 ---|---
