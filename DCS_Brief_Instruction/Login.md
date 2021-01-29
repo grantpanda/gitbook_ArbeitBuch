@@ -6,8 +6,8 @@ Here we introduce how to Login and start the DCS system.
 
 1. Open Web Browser. Chrome Suggested.
 2. Input the URL in address bar.
-    For test situation, the URL shall be : https://dcs.smil.com/sme-veh/login
-    For formal situation, the URL shall be : https://uat-dcs.smil.com/sme-veh/login
+    For UAT environment, the URL shall be : https://uat-dcs.smil.com/sme-veh/login
+    For PRD environment, the URL shall be : https://dcs.smil.com/sme-veh/login
 3. Input User Name
 4. Input Password
 5. Click "LOGIN" button
