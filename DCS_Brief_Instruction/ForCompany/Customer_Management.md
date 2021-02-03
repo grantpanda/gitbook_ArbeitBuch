@@ -9,6 +9,8 @@ Select and click "Customer Management" from the menu tree，Menu Path: Master Da
 
 ![screensnap_customermanagement_00](https://github.com/grantpanda/gitbook_ArbeitBuch/raw/master/.gitbook/assets/screensnap_customermanagement_00.jpg)
 
+---
+
 1. Click Input "customer #", this customer number must exist SAP
 2. Input "Customer Short Name"
 3. Input "Customer Name"
@@ -29,7 +31,8 @@ Select and click "Customer Management" from the menu tree，Menu Path: Master Da
 
 ![screensnap_customermanagement_01](https://github.com/grantpanda/gitbook_ArbeitBuch/raw/master/.gitbook/assets/screensnap_customermanagement_01.jpg)
 
-##
+---
+
 1. Input "Delivery Short Name"
 2. Choose "Country Name"
 3. Choose "City Name"

@@ -10,7 +10,8 @@ This page is for users creating sales order it also belongs to his sales company
 
 ![screensnap_salesorder_00](https://github.com/grantpanda/gitbook_ArbeitBuch/raw/master/.gitbook/assets/screensnap_salesorder_00.jpg)
 
-##
+---
+
 1. Choose "Order Type", the optional items are "Normal" and "Demo"
 2. Choose "Sales Company"
 3. Choose "Customer Short Name"
@@ -20,7 +21,8 @@ This page is for users creating sales order it also belongs to his sales company
  
 ![screensnap_salesorder_01](https://github.com/grantpanda/gitbook_ArbeitBuch/raw/master/.gitbook/assets/screensnap_salesorder_01.jpg)
 
-##
+---
+
 1. Click "Add Item" button, and then system will add the new line
 2. Input "Vehicle Material Code"(Fuzzy Search Supported). The Vehicle Material Code shall match the one in price package.
 3. Input QTY

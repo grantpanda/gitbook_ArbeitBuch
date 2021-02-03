@@ -8,7 +8,9 @@ This page is for users creating purchase order.
 2. Click "Add Item"
 
 ![screensnap_purchaseorder_00](https://github.com/grantpanda/gitbook_ArbeitBuch/raw/master/.gitbook/assets/screensnap_purchaseorder_00.jpg)
-##
+
+---
+
 1. Choose "Order Type"
 2. Choose "Delivered Short Name"
 3. Choose "Price Package"

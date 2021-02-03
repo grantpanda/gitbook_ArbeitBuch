@@ -12,7 +12,7 @@
         * [Invoice Enquiry](DCS_Brief_Instruction/ForDealer/Invoice_Enquiry.md)
     * [For Company](DCS_Brief_Instruction/ForCompany/README.md)
         * [Sales Company](DCS_Brief_Instruction/ForCompany/Sales_Company.md)
-        * [Customer Management](DCS_Brief_Instruction/ForCompany/Customer_management.md)
+        * [Customer Management](DCS_Brief_Instruction/ForCompany/Customer_Management.md)
         * [Bank Account Management](DCS_Brief_Instruction/ForCompany/Bank_Account_Management.md)
         * [Vehicle Material](DCS_Brief_Instruction/ForCompany/Vehicle_Material.md)
         * [Valid Sales Vehicle](DCS_Brief_Instruction/ForCompany/Valid_Sales_Vehicle.md)
